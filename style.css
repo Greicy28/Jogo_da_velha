@@ -1,0 +1,27 @@
+table {
+    border-collapse: collapse;
+    
+  }
+
+  td{
+    height:50px ;
+    width:50px ;
+    border: 2px solid white;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    cursor: pointer;
+    background: black;
+    color:white;
+    }
+
+    button{
+     color:white; 
+     background: brown;
+     margin: 10px;
+     border: 2px solid black;
+    }
+
+    .win{
+      background-color: bisque;
+    }
